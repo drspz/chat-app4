@@ -1,6 +1,7 @@
 .wrapper {
   display: flex;
 }
+
 .side-bar {
   background-color: #253141;
   width: 300px;
@@ -32,7 +33,6 @@
   color: deepskyblue;
   text-decoration: none;
 }
-
 
 .rooms {
   background-color: #2F3E51;
